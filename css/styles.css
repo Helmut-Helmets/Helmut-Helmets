@@ -8007,6 +8007,7 @@ fieldset:disabled .btn {
 
 .fw-bold {
   font-weight: 700 !important;
+  height: 6rem;
 }
 
 .fw-bolder {
@@ -11678,7 +11679,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #30A8A8, #227777) !important;
+  background: linear-gradient(45deg, #30a8a8, #227777) !important;
 }
 
 .font-alt {
@@ -11833,7 +11834,7 @@ section.cta:before {
   display: none;
 }
 .features-device-mockup .circle .gradient-start-color {
-  stop-color: #30A8A8;
+  stop-color: #30a8a8;
 }
 
 .features-device-mockup .circle .gradient-end-color {
